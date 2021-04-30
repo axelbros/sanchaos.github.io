@@ -1,10 +1,49 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
 /*Home page*/
-.main{
-	color: #365f91;
-	background-image: url(https://raw.githubusercontent.com/axelbros/sanchaos.github.io/main/images/bg.jpg);
-	opacity: 0.6
-	height: 100vh;
-	position: relative;
+body{
+	color: #000000;
+	background-image: url(https://images.wallpaperscraft.ru/image/bumaga_tekstura_kletki_svetlyy_55327_1920x1080.jpg);opacity: 1;
+	height: 1000px;
+	position: absolute;
 	min-height: 659px;
+}
+
+.container1{
+  width: 100%;
+  height: 100px;
+  border: 2px solid blue;
+  margin-bottom: 10px;
+}
+.container2{
+  width: 800px;
+  min-height: 800px;
+  background: #ffffff;
+  border: 4px solid gray;
+  margin: 0 auto;
+}
+.logo{
+  float: left;
+}
+nav{
+  float: right;
+}
+nav ul {
+  margin-right: 15px;
+  padding: 0;
+  list-style: none;
+}
+nav li {
+  display: inline-block; /*один из способов разместить элементы в строку*/
+}
+.header{
+  display: flex;
+}
+.leftheader{
+  width: 550px;
+  height: 200px;
+}
+.rightheader{
+ width: 250px;
+  height: 200px;
+  margin-right: 5px;
 }
