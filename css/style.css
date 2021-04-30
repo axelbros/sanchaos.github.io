@@ -6,6 +6,8 @@ body{
 	height: 1000px;
 	position: absolute;
 	min-height: 659px;
+	margin-left: auto;
+    margin-right: auto;
 }
 
 .container1{
