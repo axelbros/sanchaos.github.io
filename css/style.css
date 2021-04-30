@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
 /*Home page*/
 .main{
+	color: #365f91;
 	background-image: url(https://raw.githubusercontent.com/axelbros/sanchaos.github.io/main/images/bg.jpg);
 	height: 100vh;
 	position: relative;
