@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
-/*main*/
-body{
-font-family: 'Roboto'
-background-image: url(https://raw.githubusercontent.com/axelbros/sanchaos.github.io/main/images/bg.jpg) opacity: 0.7;
+/*Home page*/
+.main{
+	background-image: url(https://raw.githubusercontent.com/axelbros/sanchaos.github.io/main/images/bg.jpg);
+	height: 100vh;
+	position: relative;
+	min-height: 659px;
 }
