@@ -3,6 +3,7 @@
 .main{
 	color: #365f91;
 	background-image: url(https://raw.githubusercontent.com/axelbros/sanchaos.github.io/main/images/bg.jpg);
+	opacity: 0.6
 	height: 100vh;
 	position: relative;
 	min-height: 659px;
