@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
 /*Home page*/
 
-.bg{
+body{
   background-image: url(https://kartinkinaden.ru/uploads/posts/2020-11/1606681969_24-p-fon-temnie-gori-42.jpg);opacity: 1;
    background-size: 1500px 1000px;
   font-family: Roboto;
