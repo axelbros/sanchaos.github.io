@@ -106,3 +106,13 @@ li{
    position:absolute;
 padding-left:400px;
 }
+nav li a{
+  transition: background .3s ease;
+}
+nav li a:hover{
+  display: block;
+  background: rgba(0, 0, 0, 0.5);
+  cursor: pointer;
+  width=40px;
+  height=40px;
+} 
