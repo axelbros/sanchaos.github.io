@@ -96,5 +96,13 @@ li{
   background:#000000;
 }
 .info{
-  display:flex;
+  padding-left:5px;
+  display:left;
+  color:white;
+  font-family: 'Noto Sans', sans-serif;
+}
+.info img{
+  display:right;
+   position:absolute;
+padding-left:400px;
 }
