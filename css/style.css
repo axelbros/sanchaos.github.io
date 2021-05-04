@@ -13,7 +13,7 @@ body{
   width: 800px;
   height: 100px;
   border: 2px solid white;
-  background: rgba(242, 243, 244, 0.1);
+  background-color:rgba(105, 105, 105, 0.1);
   }
 .name{
   font-size:50px;
@@ -57,6 +57,7 @@ nav li {
 .leftheader{
   width: 550px;
   height: 200px;
+  background-color:rgba(105, 105, 105, 0.1);
   background-image: url("https://storage.googleapis.com/multi-static-content/previews/artage-io-thumb-8e59028cac7415d7cfa6b5cee368fb22.png");
   background-size: 500px 500px;
   background-repeat: no-repeat;
@@ -69,6 +70,7 @@ nav li {
  width: 250px;
   height: 200px;
   margin-right: 5px;
+  background-color:rgba(105, 105, 105, 0.1);
 }
 .navmenu ul{
   display:flex;
@@ -96,14 +98,23 @@ li{
   background:#000000;
 }
 .info{
+   border-top:1px solid white;
+  height:700px;
   padding-left:5px;
   display:left;
   color:white;
   font-family: 'Noto Sans', sans-serif;
+  background-color:rgba(105, 105, 105, 0.1);
+  background-image: url("https://i.imgur.com/33uqfbF.png");
+    background-size: 300px 120px;
+  background-repeat: no-repeat;
+  background-position: right bottom;
 }
 .info img{
   display:right;
    position:absolute;
-padding-left:400px;
+padding-left:10px;
 }
-
+.netology{
+    margin-left:250px;  
+}
